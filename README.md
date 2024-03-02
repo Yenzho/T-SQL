@@ -4,9 +4,9 @@
 This is a small training task that I completed using T-SQL.
 
 ## GitHub Repository Setup
-1.1 Create a repository on GitHub.
-1.2 Each subsequent paragraph must be published in the "lesson 0" thread.
-1.3 Create a Pull Request for the branch "lesson 0" in "master".
+- Create a repository on GitHub.
+- Each subsequent paragraph must be published in the "lesson 0" thread.
+- Create a Pull Request for the branch "lesson 0" in "master".
 
 ## Tables
 ### Create tables (output: file in the CreateStructure.sql repository in the Tables branch)
